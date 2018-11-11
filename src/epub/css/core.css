@@ -35,6 +35,10 @@ q::after{
 	content: '';
 }
 
+h2 span{
+    display:block;
+}
+
 h1,
 h2,
 h3,
@@ -49,7 +53,7 @@ h6{
 	margin: 3em 0;
 }
 
-blockquote + p,
+blockquote > p,
 h2 + p,
 h3 + p,
 h4 + p,
