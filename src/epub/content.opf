@@ -43,6 +43,7 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of stories entailing life during the gold rush in the harsh wilderness of northwestern North America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A collection of stories that highlight the trials and tribulations of life in the Yukon and Alaska during the gold rush. Greed, determination, compassion, competition, and survival dominate as native tribes intermingle with western settlers. Despite the laws that each culture abides by, the law of the wilderness will overcome you when unprepared.&lt;/p&gt;
