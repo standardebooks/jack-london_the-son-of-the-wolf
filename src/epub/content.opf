@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2377</dc:source>
 		<dc:source>https://archive.org/details/sonofwolf00londrich</dc:source>
 		<meta property="se:production-notes">The Gutenberg transcription is from an edition that includes some additional sentences that are not present in the page scans used for this production. These additional sentences were left in this production.</meta>
-		<meta property="se:word-count">49405</meta>
+		<meta property="se:word-count">49404</meta>
 		<meta property="se:reading-ease.flesch">79.6</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_the-son-of-the-wolf</meta>
 		<dc:creator id="author">Jack London</dc:creator>
