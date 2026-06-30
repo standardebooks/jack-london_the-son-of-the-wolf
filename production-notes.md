@@ -1,0 +1,1 @@
+The Gutenberg transcription is from an edition that includes some additional sentences that are not present in the page scans used for this production. These additional sentences were left in this production.
