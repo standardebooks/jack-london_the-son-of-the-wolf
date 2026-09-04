@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Son of the Wolf</dc:title>
 		<meta property="file-as" refines="#title">Son of the Wolf, The</meta>
-		<dc:subject id="subject-1">Gold mines and mining -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Klondike River Valley (Yukon) -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Yukon River Valley (Yukon and Alaska) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Gold mines and mining--Fiction</dc:subject>
+		<dc:subject id="subject-2">Klondike River Valley (Yukon)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Yukon River Valley (Yukon and Alaska)--Fiction</dc:subject>
 		<dc:subject id="subject-4">Adventure stories, American</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008105329</meta>
